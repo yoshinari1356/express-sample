@@ -1,7 +1,5 @@
 # express-sample
 
-nodeとexpressを使って
-
 ## Contents
 
 - [express-sample](#express-sample)
